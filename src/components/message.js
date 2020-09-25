@@ -12,7 +12,7 @@ const message = () => {
       </Navbar>
       <Modal.Dialog>
         <Modal.Header closeButton>
-          <Modal.Title>Form Add Successfully!</Modal.Title>
+          <Modal.Title>Form Added Successfully!</Modal.Title>
         </Modal.Header>
 
         <Modal.Body>
